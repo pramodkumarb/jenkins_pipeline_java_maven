@@ -4,6 +4,7 @@
 	<groupId>com.xyz</groupId>
 	<artifactId>hello</artifactId>
 	<version>0.0.1-SNAPSHOT</version>
+	<packaging>war</packaging>
 	<name>jenkins_pipeline_java_maven</name>
 	<description>For TTFHW of Jenkinsfile within a java project</description>
 	<dependencies>
